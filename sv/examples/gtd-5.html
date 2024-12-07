@@ -30,7 +30,11 @@ lang: en
             I det här 5-stjärniga exemplet använde vi <a href="http://purl.org/ns/meteo#">Meteo</a>-ordförrådet för att representera temperaturprognoserna.
             Varje prognos har en URI (till exempel '<a href="#forecast20101115">prognos för måndagen den 15 november 2010</a>'), som kan användas i ett annat sammanhang.
             Dessutom, genom att länka platsen (<code>#Galway</code>) till DBpedia-posten <a href="http://dbpedia.org/resource/Galway">Galway</a>,
+<<<<<<< HEAD
             så har vi klargjort det för tolkningen av <code>#temp</code> genom de respektive skrivna länkarna till DBpedia (<a href="http://dbpedia.org/resource/Temperature">Temperature. </a> och <a href="http://dbpedia.org/resource/Celsius">Celsius</a>).
+=======
+            så småningom har vi disambiguerat det för tolkningen av <code>#temp</code> genom de respektive skrivna länkarna till DBpedia (<a href="http://dbpedia.org/resource/Temperature">Temperature. </a> och <a href="http://dbpedia.org/resource/Celsius">Celsius</a>).
+>>>>>>> a50e86fe404495c4111c6a15692d4b678882ff68
 		</p>
 	</div>
 </div>
@@ -43,8 +47,13 @@ lang: en
 		<th>Day</th>
 		<th>
 			<div about="#temp">
+<<<<<<< HEAD
 				Lägsta 
 				<a rel="rdfs:seeAlso" href="https://sv.wikipedia.org/wiki/Temperatur" resource="http://dbpedia.org/resource/Temperature">Temperatur</a>
+=======
+				Lowest 
+				<a rel="rdfs:seeAlso" href="http://en.wikipedia.org/wiki/Temperature" resource="http://dbpedia.org/resource/Temperature">Temperatur</a>
+>>>>>>> a50e86fe404495c4111c6a15692d4b678882ff68
 				(<span rel="owl:sameAs" resource="http://dbpedia.org/resource/Celsius">&deg;C</span>)
 			</div>
 		</th>

@@ -5,7 +5,11 @@ Som konsument kan du göra allt du kan göra med <span class="stars-inline">&#x2
 - &#10004; Du kan upptäcka mer (relaterad) data medan du konsumerar data.
 - &#10004; Du kan direkt lära dig om dataschemat.
 - &#9888; Du måste nu hantera trasiga datalänkar, precis som 404-fel på webbsidor.
+<<<<<<< HEAD
 - &#9888; Att presentera data från en godtycklig länk som fakta är lika riskabelt som att låta människor inkludera innehåll från vilken webbplats som helst på dina sidor.
+=======
+- Att presentera data från en godtycklig länk som fakta är lika riskabelt som att låta människor inkludera innehåll från vilken webbplats som helst på dina sidor.
+>>>>>>> a50e86fe404495c4111c6a15692d4b678882ff68
 
 Som utgivare &hellip;
 
