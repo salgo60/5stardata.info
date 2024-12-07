@@ -2,9 +2,9 @@
 
 Som konsument &hellip;
 
-- &#10004;
-- &#10004;
-- &#10004; Du kan lagra det lokalt (på din hårddisk eller på ett USB-minne).
+- &#10004; Du kan se datat.
+- &#10004; Du kan skriva ut datat.
+- &#10004; Du kan lagra datat lokalt (på din hårddisk eller på ett USB-minne).
 - &#10004; Du kan ange data i vilket annat system som helst.
 - &#10004; Du kan ändra data som du vill.
 - &#10004; Du kan dela data med vem du vill.

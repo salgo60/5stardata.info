@@ -6,7 +6,7 @@ Som konsument kan du göra allt du kan göra med <span class="stars-inline">&#x2
 - &#10004; Du kan bokmärka det.
 - &#10004; Du kan återanvända delar av datan.
 - &#10004; Du kanske kan återanvända befintliga verktyg och bibliotek, även om de bara förstår delar av det mönster som utgivaren använde.
-- Att förstå strukturen för en RDF "Graph" av data kan vara mer ansträngning än tabelldata (Excel/CSV) eller träddata (XML/JSON).
+- &#10004; Att förstå strukturen för en RDF "Graph" av data kan vara mer ansträngning än tabelldata (Excel/CSV) eller träddata (XML/JSON).
 - &#10004; Du kan kombinera data säkert med andra data är ett globalt schema så om två saker har samma URI så är det avsiktligt, och i så fall är det på god väg att bli 5-stjärniga data.
 
 Som utgivare &hellip;
